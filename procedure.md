@@ -4,9 +4,9 @@ In preparation for the 2026 DESC Membership Status Review, below is a full outli
 
 * MC will announce the DESC Membership Review 2026 Procedure via Slack and the lsst-desc-members mailing list in mid-January, 2026.
 * All DESC members who have updated their DESC Membership Database entry or joined the DESC in the past six months (since July 26, 2025) are exempt from this year’s Membership Review.
-* The 2026 Membership Review will commence on Tuesday, January 27, 2026.
+* **The 2026 Membership Review will commence on Tuesday, January 27, 2026.**
 * MC will send email to all DESC members using their primary email addresses stored in the[ DESC People Database](https://srs.slac.stanford.edu/GroupManager/exp/LSST-DESC/protected/contactList.jsp).
-* The text will clearly announce the deadline for responding to the 2026 Membership Review. The deadline is Wednesday, March 11, 2026, 11 PM Pacific Time.
+* The text will clearly announce the deadline for responding to the 2026 Membership Review. The **deadline is Wednesday, March 11, 2026, 11 PM Pacific Time**.
 * The text will include instructions for those unable to log into their Confluence account to access their[ DESC People Database](https://srs.slac.stanford.edu/GroupManager/exp/LSST-DESC/protected/contactList.jsp) entry, which is required to participate in the review process.
     * The text will also include instructions to contact the MC if they wish to leave the DESC.
     * The text will include a personalized link to the DESC member's database entry.
