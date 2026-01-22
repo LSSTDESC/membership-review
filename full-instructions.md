@@ -2,7 +2,7 @@
 
 1. The MC will send an email message to each DESC Member using their primary email stored in the DESC People Database.  
    a. This email will be sent on **Tuesday, January 27, 2026**.
-      1. The sender will be heather at slac dot stanford dot edu. Please consider whitelisting this email address.
+      1. The sender will be heather at slac.stanford.edu. Please consider whitelisting this email address.
 2. DESC members will then click the provided link to visit their DESC People Database entry
    
    a. Log into your DESC Confluence account.
@@ -11,23 +11,24 @@
          
 * Check the [DESC Tech Cheat Sheet](https://docs.google.com/document/d/1XcVmbfMRRB4FARwWphgAmM7NXQ1w0hPCGA4jgZ19oRs/edit#)
 
-* If you are unable to resolve the issue, please reach out on #desc-help or via email to lsst-desc-help at slac dot stanford dot edu for assistance.
+* If you are unable to resolve the issue, please reach out on #desc-help or via email to lsst-desc-help at slac.stanford.edu for assistance.
 </details>
             
 3. If all looks correct in your database entry, click **Update** and click **Done Editing**
    
 4. If any changes are necessary, make the modifications and click **Update**.
-      
+
+   The interface to update affiliations has changed, please see [this page](./update-affiliations.md) for instructions.   
    Provisional members should leave "current institution" as "Provisional Member" or "Observer" [if they joined as observers] rather than changing to their actual institution.
 <details>
-<summary>If you have moved institutions and your new institution does not appear in the drop-down list</summary>
+<summary>If you have your new institution does not appear in the drop-down list</summary>
       
 * please select the very first option, ".institute not listed". Selecting this option has no immediate effect but will prompt us to follow up with you in the coming weeks.
 </details>
 
 5. After clicking **Update**, verify the **lastCheckedByUser** date in your database entry was updated. When finished, click **Done Editing**
 
-    a. If you have trouble, please ask for help on #desc-help (Slack) or send email to lsst-desc-help at slac dot stanford dot edu.
+    a. If you have trouble, please ask for help on #desc-help (Slack) or send email to lsst-desc-help at slac.stanford.edu.
    
 6. Non-respondents will receive at least two additional email reminders before the review period is closed.
    
