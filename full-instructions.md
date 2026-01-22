@@ -15,7 +15,7 @@
 * If you are unable to resolve the issue, please reach out on #desc-help or via email to lsst-desc-help at slac.stanford.edu for assistance.
 </details>
             
-3. If all looks correct in your database entry, click **Update** and click **Done Editing**
+3. If all looks correct in your database entry, click **Update** and then click **Done Editing**
 
    a. This is a great time to consider adding your ORCID and "Latex Name"
 
@@ -26,7 +26,7 @@
    The interface to update affiliations has changed, please see [this page](./update-affiliations.md) for instructions.   
    Provisional members should leave "current institution" as "Provisional Member" or "Observer" [if they joined as observers] rather than changing to their actual institution.
 <details>
-<summary>If you have your new institution does not appear in the drop-down list</summary>
+<summary>If your new institution does not appear in the drop-down list</summary>
       
 * please select the very first option, ".institute not listed". Selecting this option has no immediate effect but will prompt us to follow up with you in the coming weeks.
 </details>
