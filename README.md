@@ -19,6 +19,7 @@ DESC members who have updated their DESC People Database entry or have joined th
 * Click **Edit** and make any necessary changes
     * Please note that the interface for setting our affiliations has changed and now allows us to include more than one affiliation if needed.  Details about the new interface for affiliations is [available here](./update-affiliations.md).
     * If you have changed affiliations or position, please update the Supervisor field as appropriate
+    * This is a great time to consider adding your ORCID and Latex Name to your database entry
 * When done editing, click **Update** to save the changes, then click **Done Editing**
 * Check that your **LastCheckedByUser** date is set to the current date
 
