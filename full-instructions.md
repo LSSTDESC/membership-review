@@ -15,8 +15,12 @@
 </details>
             
 3. If all looks correct in your database entry, click **Update** and click **Done Editing**
+
+   a. This is a great time to consider adding your ORCID and "Latex Name"
+
+   <img src="https://github.com/user-attachments/assets/c70c44c1-26a0-43cf-82aa-6a8b2302def2" width=40%>
    
-4. If any changes are necessary, make the modifications and click **Update**.
+5. If any changes are necessary, make the modifications and click **Update**.
 
    The interface to update affiliations has changed, please see [this page](./update-affiliations.md) for instructions.   
    Provisional members should leave "current institution" as "Provisional Member" or "Observer" [if they joined as observers] rather than changing to their actual institution.
