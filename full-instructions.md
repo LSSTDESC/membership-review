@@ -9,6 +9,7 @@
 <details>
 <summary>If you are unable to log in</summary>
          
+* Check your [DESC SLAC access status on this spreadsheet](https://docs.google.com/spreadsheets/d/1f8Yckg6Tc3ItqN8byZewB7HOYa4Y_EYJagc7boh111A/edit?usp=sharing)
 * Check the [DESC Tech Cheat Sheet](https://docs.google.com/document/d/1XcVmbfMRRB4FARwWphgAmM7NXQ1w0hPCGA4jgZ19oRs/edit#)
 
 * If you are unable to resolve the issue, please reach out on #desc-help or via email to lsst-desc-help at slac.stanford.edu for assistance.
