@@ -5,7 +5,11 @@
   There was a bug discovered on 22 January 2026 that impacted DESC members with usernames that include uppercase letters. A fix is now in place. 
   Make sure you click **Update** or if modifying your affiliations, **Update Affiliations** to save your changes.  When done editing, click **Done Editing** to close your editing session.
 
-### How to I reach out for help?
+### I sent an email to lsst-desc-help at slac.stanford.edu and have not received a response
+
+There was a widespread Microsoft 365 outage that impacted SLAC and the DESC mailing lists on January 22, 2026.  If you sent email to lsst-desc-help and have not heard back, please resend the email or post to #desc-help
+
+### How do I reach out for help?
 
 If you are having trouble logging into SLAC Confluence, please check [this spreadsheet](https://docs.google.com/spreadsheets/d/1f8Yckg6Tc3ItqN8byZewB7HOYa4Y_EYJagc7boh111A/edit?usp=sharing) to see your **SLAC Access Status** and type of account you have registered with SLAC.  
 If your **SLAC Access Status** is not "OK", please follow the instructions in the **What to do?** column in the **Account Status** sheet associated with your name. 
