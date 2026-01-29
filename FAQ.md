@@ -23,6 +23,12 @@ Please check [this spreadsheet](https://docs.google.com/spreadsheets/d/1f8Yckg6T
 If your **SLAC Access Status** is not "OK", please follow the instructions in the **What to do?** column in the **Account Status** sheet associated with your name. 
 If your account is "OK", then check the [DESC Tech Cheat Sheet](https://docs.google.com/document/d/1XcVmbfMRRB4FARwWphgAmM7NXQ1w0hPCGA4jgZ19oRs/edit#) for ideas on how to fix any password or account issues.
 
+### I have changed institutions what should I keep in mind?
+
+Make sure to [update your affiliation](./update-affiliations.md) while you are updating your DESC Member database entry.  If you have previously registered credentials from your old institution with SLAC to log into Confluence, and will lose those credentials, you should [update your registration with SLAC](https://github.com/LSSTDESC/slac-authentication-transition/wiki/Updating-Your-Federated-login-When-Changing-Institutions).
+
+If you do not have another recognized federated identity, please reach out on #desc-help or lsst-desc-help at slac.stanford.edu
+
 ### When does the 2026 DESC Membership Status Review end?
 
 11 March 2026 at 11 pm Pacific
