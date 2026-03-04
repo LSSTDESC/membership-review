@@ -18,7 +18,7 @@ DESC members who have updated their DESC People Database entry or have joined th
 <summary>Completing the Membership Status Review Early</summary>
 
 * Visit the [DESC People Database](https://srs.slac.stanford.edu/GroupManager/exp/LSST-DESC/protected/contactList.jsp) and log into Confluence
-   * If you do not recall what account you use to log into DESC SLAC Confluence, [please see this spreadsheet](https://docs.google.com/spreadsheets/d/1f8Yckg6Tc3ItqN8byZewB7HOYa4Y_EYJagc7boh111A/edit?usp=sharing).
+   * If you do not recall what account you use to log into DESC SLAC Confluence, [please see this spreadsheet](https://docs.google.com/spreadsheets/d/1hRk4U11JKj-08IqG7sG0QWpsbAztbnm_8KDjAmr8NjE/edit?usp=sharing).
 * Click on your name
 * Click **Edit** and make any necessary changes
     * Please note that the interface for setting our affiliations has changed and now allows us to include more than one affiliation if needed.  Details about the new interface for affiliations is [available here](./update-affiliations.md).
